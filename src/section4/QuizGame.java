@@ -12,7 +12,7 @@ public class QuizGame {
 		String answer = JOptionPane.showInputDialog("A the 2016 E3 a new game by microsoft was teased this game featured an open world combined with pirates. What is this games name?");
 		// 3.  Use an if statement to check if their answer is correct
 		if (answer == "Sea Of Thieves") {
-			userScore ++;
+			 userScore ++;
 			JOptionPane.showMessageDialog(null, "Correct");
 
 		}
